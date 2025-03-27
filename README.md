@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alk222&theme=dracula&include_all_commits=true&count_private=true&hide_title=true" alt="Commit Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alk222&theme=dracula&hide=jupyter%20notebook&layout=compact" alt="Language Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandoclz&theme=dracula&include_all_commits=true&count_private=true&hide_title=true" alt="Commit Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoclz&theme=dracula&hide=jupyter%20notebook&layout=compact" alt="Language Stats" />
 </p>
